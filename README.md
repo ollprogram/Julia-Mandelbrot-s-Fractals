@@ -7,7 +7,7 @@ A little software to generate and save Julia or Mandelbrot's Fractals.
   <li>Python 3.7 or more. (Also possible to run it on Python 2 but with outdated libraries or other libraries.)</li>
   <li>PIP 21.3.1 or more.</li>
   <li>Numpy 1.21.5</li>
-  <li>Pillow 8.4.2 (PIL for Python 2)</li>
+  <li>Pillow 8.4.0 (PIL for Python 2)</li>
 </ul></p>
 
 # Some examples :
